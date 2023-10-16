@@ -1,0 +1,3 @@
+[submodule "alfheimrepo"]
+	path = alfheimrepo
+	url = git@github.com:AlfheimSoftware-Founder/alfheimrepo.git
